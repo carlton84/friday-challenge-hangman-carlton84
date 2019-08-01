@@ -1,3 +1,4 @@
+heello
 puts "welcome to the lucky number"
 puts "hello what is your name"
 name = gets.chomp
